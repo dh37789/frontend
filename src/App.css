@@ -2,6 +2,21 @@
   text-align: center;
 }
 
+div {
+  background-color: rgb(162, 127, 243);
+  color: rgb(100,100,100);
+  padding: 20px;
+  font-family: 고딕;
+  text-align: center;
+}
+
+h1 {
+  color: white;
+  background-color: #2EFE2E;
+  padding: 10px;
+  fort-famaly: 굴림;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
