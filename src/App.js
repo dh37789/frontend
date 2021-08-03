@@ -6,7 +6,7 @@ import ImportComponent from './components/R003_ImportComponent'
 function App() {
   return (
     <div>
-      <h1>Strat React 200!</h1>
+      <h1>Start React 200!</h1>
       <p>HTML 적용하기</p>
       <ImportComponent></ImportComponent>
     </div>
